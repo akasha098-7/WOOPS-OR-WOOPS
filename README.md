@@ -1,43 +1,30 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# WOOF-OR-WOOPS-
+#TEAM NAME-KASAMA
+->Team Lead: Shyama MS(LBS INSTITUE OF TECHNOLOGY FOR WOMEN,POOJAPPURA,TVM)
+->Member 2:Sathya A
+->Member 3:Akasa AS
+#PROJECT DESCRIPTION
+    Our group set out to create a fun, lighthearted app called WOOF OR WOOPS!!The WOOF OR WOOPS!! app helps you figure out if a growling dog might bite by asking five fun questions about its behavior.
+    After you answer, it gives you a silly “Risk Score” to let you know if you’re in danger or just dealing with a friendly pup. It’s all for laughs and a bit of fun!
+#THE PROBLEM(that does'nt exist)
+    Imagine standing face-to-face with an unknown dog.
+    In this tense moment, would you pull out your phone, launch an app, and answer five behavior-related questions to determine if the dog is likely to bite?
+#THE SOLUTION(that nobody asked for)
+    The WOOF OR WOOPS!! app turns that anxiety into laughs by helping you predict the dog’s behavior with silly questions. Is it a threat or just a woof in disguise?
+#TECHNICAL DETAILS
+ For Software:
+      Languages used:html
+      Frameworks used:
+      Libraries used:
+      Tools used:Vs code,canva,google
+#Implementation
+  For software:
+   
 
-
-## Basic Details
-### Team Name: [Name]
-
-
-### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
-
-### Project Description
-[2-3 lines about what your project does]
-
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
-
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
-## Technical Details
-### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
 # Installation
-[commands]
+[commands]not installed anything
 
 # Run
 [commands]
