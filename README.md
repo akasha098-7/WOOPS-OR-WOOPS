@@ -1,4 +1,9 @@
-<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
+
+#Implementation
+  For software:
+   
+
+# Installation<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
 # WOOF-OR-WOOPS-
 #TEAM NAME-KASAMA
@@ -19,11 +24,6 @@
       Frameworks used:
       Libraries used:
       Tools used:Vs code,canva,google
-#Implementation
-  For software:
-   
-
-# Installation
 [commands]not installed anything
 
 # Run
