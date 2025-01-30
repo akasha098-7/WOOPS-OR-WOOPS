@@ -74,9 +74,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Akasa A S]: [coding]
+- [Shyama M S]: [coding,designing]
+- [Sathya a]: [coding,designing]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
